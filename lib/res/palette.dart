@@ -1,10 +1,12 @@
 import 'package:flutter/material.dart';
 
 class Palette {
+  // theme colors
+  static Color themeColor = Color(0xFFf3791a);
 
   // background gradient
-  static Color juicyOrange = Color(0xFF068FFA);
-  static Color oldOrange = Color(0xFF89ED91);
+  static Color juicyOrange = Color(0xFFf47d15);
+  static Color oldOrange = Color(0xFFef772c);
 
   // card gradient
   static Color blueSkyLight = Color(0x40068FFA);
